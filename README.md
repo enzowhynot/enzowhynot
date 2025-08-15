@@ -1,21 +1,32 @@
+<!-- Hacker Background Start -->
+<div style="background-image: url('https://media.giphy.com/media/xTiN0L7EW5trfOvEk0/giphy.gif'); background-size: cover; padding: 20px;">
+
 <div align="center">
 
 # HI, I'M NZO 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=650&lines=HALLO+MYNAME+IS+DONROSE;I+LOVE+CODING;WELCOME+TO+MY+PROFILE;STAY+COOL+AND+KEEP+CODING)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=650&lines=HALLOW+MYNAME+IS+DONROSE;I+LOVE+CODING;WELCOME+TO+MY+PROFILE;STAY+COOL+AND+KEEP+CODING)
 
 <!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=enzowhynot&label=VISITORS&color=00ff00&style=flat" />
-<a href="https://github.com/enzowhynot?tab=followers"><img src="https://img.shields.io/github/followers/enzowhynot?label=Followers&style=flat&color=00ff00"></a>
-<a href="https://github.com/enzowhynot?tab=repositories"><img src="https://img.shields.io/badge/Stars-★-00ff00?style=flat"></a>
+<img src="https://komarev.com/ghpvc/?username=enzowhynot&label=VISITORS&color=00FF00&style=flat" />
+<a href="https://github.com/enzowhynot?tab=followers"><img src="https://img.shields.io/github/followers/enzowhynot?label=Followers&style=flat&color=00FF00"></a>
+<a href="https://github.com/enzowhynot?tab=repositories"><img src="https://img.shields.io/badge/Stars-★-00FF00?style=flat"></a>
 
 </div>
 
 ---
 
-### About me  
-- 🏛 **FOUNDER**: DONEROSE  
-- 🏠 **HOBBY**: Coding, Design, Gaming  
+  ███╗   ██╗███████╗███████╗███████╗
+  ████╗  ██║██╔════╝██╔════╝██╔════╝
+  ██╔██╗ ██║█████╗  ███████╗███████╗
+  ██║╚██╗██║██╔══╝  ╚════██║╚════██║
+  ██║ ╚████║███████╗███████║███████║
+  ╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝
+---
+
+### About me
+- 🏛 **Founder**: DONEROSE  
+- 🏠 **Hobby**: Coding, Design, Gaming  
 
 ---
 
@@ -28,31 +39,27 @@
 
 ---
 
-### Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Node.js-FFFFFF?logo=nodedotjs&logoColor=000&labelColor=FFF" />
-  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?logo=javascript&logoColor=000&labelColor=FFF" />
-  <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?logo=c%2B%2B&logoColor=000&labelColor=FFF" />
-</p>
-
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-FFFFFF?logo=visualstudiocode&logoColor=000&labelColor=FFF" />
-</p>
-
-### Used OS
-<p>
-  <img src="https://img.shields.io/badge/Ubuntu-FFFFFF?logo=ubuntu&logoColor=000&labelColor=FFF" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-FFFFFF?logo=kalilinux&logoColor=000&labelColor=FFF" />
-</p>
+### 💻 Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-000000?logo=node.js&logoColor=00FF00)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=00FF00)
+![C++](https://img.shields.io/badge/C++-000000?logo=cplusplus&logoColor=00FF00)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzowhynot&show_icons=true&theme=transparent" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=enzowhynot&theme=transparent" height="165" />
-</p>
+### 🛠 Tools
+![VS Code](https://img.shields.io/badge/VS_Code-000000?logo=visualstudiocode&logoColor=00FF00)
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="700"/>
-</p>
+---
+
+### 🐧 Used OS
+![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?logo=ubuntu&logoColor=00FF00)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?logo=kalilinux&logoColor=00FF00)
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=enzowhynot&show_icons=true&theme=chartreuse-dark&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=enzowhynot&theme=chartreuse-dark&hide_border=true)
+
+</div>
+<!-- Hacker Background End -->
