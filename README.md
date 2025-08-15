@@ -6,7 +6,7 @@
 # HI, I'M NZO 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=80&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=HALLO+MY+NAME+IS+DONROSE;I+LOVE+CODING;STAY+COOL+AND+KEEP+CODING;WELCOME+TO+MY+WORLD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=999999&color=00FF00&center=true&vCenter=true&width=800&lines=HALLOW+MY+NAME+IS+DONROSE+++I+LOVE+CODING+++KEEP+COOL+AND+KEEP+CODING" alt="Typing SVG" />
 </p>
 
 <!-- Badges -->
@@ -16,6 +16,14 @@
 
 </div>
 
+---
+
+  ███╗   ██╗███████╗███████╗███████╗
+  ████╗  ██║██╔════╝██╔════╝██╔════╝
+  ██╔██╗ ██║█████╗  ███████╗███████╗
+  ██║╚██╗██║██╔══╝  ╚════██║╚════██║
+  ██║ ╚████║███████╗███████║███████║
+  ╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝
 ---
 
 ### About me
