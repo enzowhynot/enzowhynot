@@ -6,13 +6,21 @@
 # HI, I'M NZO 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=ALLOW+MY+NAME+IS+DONROSE;I+LOVE+CODING;STAY+COOL+AND+KEEP+CODING" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=800&repeat=true&lines=ALLOW+MY+NAME+IS+DONROSE;I+LOVE+CODING;STAY+COOL+AND+KEEP+CODING" alt="Typing SVG" />
 </p>
 
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=enzowhynot&label=VISITORS&color=00FF00&style=flat" />
-<a href="https://github.com/enzowhynot?tab=followers"><img src="https://img.shields.io/github/followers/enzowhynot?label=Followers&style=flat&color=00FF00"></a>
-<a href="https://github.com/enzowhynot?tab=repositories"><img src="https://img.shields.io/badge/Stars-★-00FF00?style=flat"></a>
+<!-- Badges with Glow -->
+<style>
+  .glow-badge {
+    display: inline-block;
+    border-radius: 4px;
+    box-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00;
+  }
+</style>
+
+<img class="glow-badge" src="https://komarev.com/ghpvc/?username=enzowhynot&label=VISITORS&color=00FF00&style=flat" />
+<a class="glow-badge" href="https://github.com/enzowhynot?tab=followers"><img src="https://img.shields.io/github/followers/enzowhynot?label=Followers&style=flat&color=00FF00"></a>
+<a class="glow-badge" href="https://github.com/enzowhynot?tab=repositories"><img src="https://img.shields.io/badge/Stars-★-00FF00?style=flat"></a>
 
 </div>
 
