@@ -1,6 +1,6 @@
 <div align="center">
 
-# HI, I'M DON 👋
+# HI, I'M NZO 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=650&lines=HALLOW+MYNAME+IS+DONROSE;I+LOVE+CODING;WELCOME+TO+MY+PROFILE;STAY+COOL+AND+KEEP+CODING)
 
@@ -31,7 +31,7 @@
 ### Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Node.js-00ff00?logo=nodedotjs&logoColor=000&labelColor=111" />
-  <img src="https://img.shields.io/badge/JavaScript-00ff00?logo=javascript&logoColor=000&labelColor=111" />
+  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?logo=javascript&logoColor=000&labelColor=FFF" />
   <img src="https://img.shields.io/badge/C%2B%2B-00ff00?logo=c%2B%2B&logoColor=000&labelColor=111" />
 </p>
 
