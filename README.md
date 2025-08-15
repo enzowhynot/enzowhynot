@@ -5,10 +5,12 @@
 
 # HELLO EVERYONE👋
 
-<!-- Typing headline: tebal, pelan, loop terus -->
+<!-- Typing headline: loop terus pelan tanpa jeda panjang -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=bold&size=28&duration=5000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&repeat=true&lines=MY+NAME+IS+DONROSSE;I+LOVE+CODING;STAY+COOL+AND+KEEP+CODING" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=0&color=00FF00&center=true&vCenter=true&width=800&repeat=true&lines=MY+NAME+IS+DONROSSE;I+LOVE+CODING;STAY+COOL+AND+KEEP+CODING" alt="Typing SVG" />
 </p>
+
+
 
 <!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=enzowhynot&label=VISITORS&color=00FF00&style=flat" />
@@ -20,7 +22,7 @@
 ---
 
 ### About me
-- 🏛 **Founder**: DONROSSE  
+- 🏛 **Founder**: DONEROSSE  
 - 🏠 **Hobby**: Coding, Design, Gaming  
 
 ---
@@ -57,4 +59,4 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=enzowhynot&theme=chartreuse-dark&hide_border=true)
 
 </div>
-<!-- Hacker
+<!-- Hacker Background End -->
