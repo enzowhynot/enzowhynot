@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=0&color=00FF00&center=true&vCenter=true&width=800&repeat=true&lines=MY+NAME+IS+DONROSE;I+LOVE+CODING;STAY+COOL+AND+KEEP+CODING" alt="Typing SVG" />
 </p>
 
-<!-- NESS besar & jelas (statik hijau) -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=64&duration=1&pause=1000000000&color=00FF00&center=true&vCenter=true&width=800&height=100&repeat=false&lines=NESS" alt="NESS" />
 </p>
