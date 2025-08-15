@@ -11,9 +11,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=64&duration=1&pause=1000000000&color=00FF00&center=true&vCenter=true&width=800&height=100&repeat=false&lines=NESS" alt="NESS" />
-</p>
 
 <!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=enzowhynot&label=VISITORS&color=00FF00&style=flat" />
