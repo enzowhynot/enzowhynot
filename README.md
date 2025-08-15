@@ -30,20 +30,20 @@
 
 ### Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Node.js-00ff00?logo=nodedotjs&logoColor=000&labelColor=111" />
+  <img src="https://img.shields.io/badge/Node.js-FFFFFF?logo=nodedotjs&logoColor=000&labelColor=FFF" />
   <img src="https://img.shields.io/badge/JavaScript-FFFFFF?logo=javascript&logoColor=000&labelColor=FFF" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00ff00?logo=c%2B%2B&logoColor=000&labelColor=111" />
+  <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?logo=c%2B%2B&logoColor=000&labelColor=FFF" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-00ff00?logo=visualstudiocode&logoColor=000&labelColor=111" />
+  <img src="https://img.shields.io/badge/VS%20Code-FFFFFF?logo=visualstudiocode&logoColor=000&labelColor=FFF" />
 </p>
 
 ### Used OS
 <p>
-  <img src="https://img.shields.io/badge/Ubuntu-00ff00?logo=ubuntu&logoColor=000&labelColor=111" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-00ff00?logo=kalilinux&logoColor=000&labelColor=111" />
+  <img src="https://img.shields.io/badge/Ubuntu-FFFFFF?logo=ubuntu&logoColor=000&labelColor=FFF" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-FFFFFF?logo=kalilinux&logoColor=000&labelColor=FFF" />
 </p>
 
 ---
