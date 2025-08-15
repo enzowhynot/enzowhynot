@@ -2,7 +2,7 @@
 
 # HI, I'M NZO 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=650&lines=HALLOW+MYNAME+IS+DONROSE;I+LOVE+CODING;WELCOME+TO+MY+PROFILE;STAY+COOL+AND+KEEP+CODING)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=650&lines=HALLO+MYNAME+IS+DONROSE;I+LOVE+CODING;WELCOME+TO+MY+PROFILE;STAY+COOL+AND+KEEP+CODING)
 
 <!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=enzowhynot&label=VISITORS&color=00ff00&style=flat" />
@@ -14,8 +14,8 @@
 ---
 
 ### About me  
-- 🏛 **Founder**: DONEROSE  
-- 🏠 **Hobby**: Coding, Design, Gaming  
+- 🏛 **FOUNDER**: DONEROSE  
+- 🏠 **HOBBY**: Coding, Design, Gaming  
 
 ---
 
