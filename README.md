@@ -7,7 +7,7 @@
 
 <!-- Typing headline: loop terus tanpa jeda panjang -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=0&color=00FF00&center=true&vCenter=true&width=800&repeat=true&lines=MY+NAME+IS+DONROSE;I+LOVE+CODING;STAY+COOL+AND+KEEP+CODING" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=0&color=00FF00&center=true&vCenter=true&width=800&repeat=true&lines=MY+NAME+IS+DONROSSE;I+LOVE+CODING;STAY+COOL+AND+KEEP+CODING" alt="Typing SVG" />
 </p>
 
 
@@ -22,7 +22,7 @@
 ---
 
 ### About me
-- 🏛 **Founder**: DONEROSE  
+- 🏛 **Founder**: DONEROSSE  
 - 🏠 **Hobby**: Coding, Design, Gaming  
 
 ---
