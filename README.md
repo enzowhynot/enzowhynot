@@ -2,7 +2,7 @@
 
 # HELLO EVERYONE 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=650&lines=+MYNAME+IS+ENZO;I+WELCOME+TO+MY+PROFILE;STAY+COOL+AND+KEEP+CODING)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=650&lines=+MYNAME+IS+ENZO;WELCOME+TO+MY+PROFILE;STAY+COOL+AND+KEEP+CODING)
 
 <!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=enzowhynot&label=VISITORS&color=00FF00&style=flat" />
