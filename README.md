@@ -63,10 +63,8 @@
 
 ## 📈 GitHub Stats
 
-> ⚠️ **Note**: Ganti `YOUR_TOKEN_HERE` dengan GitHub personal access token kamu untuk menghindari error rate limit.
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzowhynot&show_icons=true&theme=chartreuse-dark&hide_border=true&token=YOUR_TOKEN_HERE" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enzowhynot&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=enzowhynot&theme=chartreuse-dark&hide_border=true" height="165" />
 </p>
 
@@ -82,4 +80,4 @@
 
 ## 💬 Quote of the Day
 
-> _"Code is art. Bug is challenge. I choose both."_ — EnzoEnzo
+> _"Code is art. Bug is challenge. I choose both."_ — Enzo
