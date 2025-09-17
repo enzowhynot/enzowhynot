@@ -3,7 +3,7 @@
 # 👋 HELLO EVERYONE  
 ## 💻 WELCOME TO MY GITHUB PROFILE
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=650&lines=My+name+is+Enzo;I+love+coding;Welcome+to+my+profile;Stay+cool+and+keep+coding)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=650&lines=My+name+is+Enzo;;Welcome+to+my+profile)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=enzowhynot&label=VISITORS&color=00FF00&style=flat" />
@@ -63,8 +63,10 @@
 
 ## 📈 GitHub Stats
 
+> ⚠️ **Note**: Ganti `YOUR_TOKEN_HERE` dengan GitHub personal access token kamu untuk menghindari error rate limit.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzowhynot&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enzowhynot&show_icons=true&theme=chartreuse-dark&hide_border=true&token=YOUR_TOKEN_HERE" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=enzowhynot&theme=chartreuse-dark&hide_border=true" height="165" />
 </p>
 
@@ -80,4 +82,4 @@
 
 ## 💬 Quote of the Day
 
-> _"Code is art. Bug is challenge. I choose both."_ — Enzo
+> _"Code is art. Bug is challenge. I choose both."_ — EnzoEnzo
